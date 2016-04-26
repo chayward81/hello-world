@@ -11,6 +11,7 @@
 ## Sample Link
 
 [I'm an inline-style link](https://www.google.com)
+[Added second link](https://www.yahoo.com)
 
 ## Description
 
