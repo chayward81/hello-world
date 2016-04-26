@@ -4,6 +4,14 @@
 
 #### By _**{List of contributors}**_
 
+## Sample Image
+
+![image](http://lorempixel.com/400/200/)
+
+## Sample Link
+
+[I'm an inline-style link](https://www.google.com)
+
 ## Description
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
